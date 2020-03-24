@@ -1,0 +1,19 @@
+{
+  "name": "find-movie-stats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IwanCode/find-movie-stats.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IwanCode/find-movie-stats/issues"
+  },
+  "homepage": "https://github.com/IwanCode/find-movie-stats#readme"
+}

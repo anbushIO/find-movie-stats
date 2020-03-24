@@ -1,0 +1,25 @@
+.root {
+  padding: 10px 0 0;
+  margin-left: -0.75rem;
+  margin-right: -0.75rem;
+}
+
+.item {
+  padding: 0 5px 10px;
+}
+
+.root-item {
+  overflow: hidden;
+}
+.movies-list {
+  display: flex;
+  flex-wrap: wrap;
+  li {
+    margin-left: 0 !important;
+    position: relative;
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  }
+}
